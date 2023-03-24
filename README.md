@@ -20,6 +20,7 @@
   <img align="center" alt="Leo-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Leo-Boostrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Leo-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Leo-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
 ##
